@@ -24,7 +24,7 @@ Im learning JavaScript, C, C++, and Python.
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 
-![Coding Gif](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Coding Gif](https://media.tenor.com/cJtDhl2-MP0AAAAi/goku-dragon-ball.gif)
 
 ---
 
