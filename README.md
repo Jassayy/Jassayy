@@ -4,8 +4,8 @@ About Me:
 I'm a passionate developer who loves coding and anime! 🧑‍💻✨  
 Im learning JavaScript, C, C++, and Python.
 
-![Anime Gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRuZ3U5bTFuOHp0bWxvMDJuOGwzZXJrczZ6NG52M2diY2s3cXJ2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TgyJebqyMtPrOxiPdk/giphy.webp)  
-*Anime fuels my creativity as much as coding does!*
+![Anime Gif](https://media.tenor.com/qxsQpk34ONoAAAAM/g%C3%BCnayd%C4%B1n-g%C3%BCl.gif)  
+*Demon Slayer fuels my energy as much as coding does!*
 
 ---
 
