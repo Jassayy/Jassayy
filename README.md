@@ -11,7 +11,8 @@ I'm learning JavaScript, C, React, and Python.
 
 ### Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jas-gandhi-265585202/)
+[![LinkedIn](![image](https://github.com/user-attachments/assets/4e03a791-7045-4c47-b755-37f6654d239c)
+)](https://www.linkedin.com/in/jas-gandhi-265585202/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/Grandslayerr)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/__jas.g__/)
 
