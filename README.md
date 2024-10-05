@@ -5,7 +5,7 @@ I'm a passionate developer who loves coding and anime! 🧑‍💻✨
 I'm learning JavaScript, C, React, Python, C++ and more!
 
 
-[![AnimeGIF](https://media1.tenor.com/m/gsQ41D4T6ukAAAAd/gyomei-himejima-vs-muzan-kibutsuji.gif)]
+![Anime Gif](https://media.tenor.com/qxsQpk34ONoAAAAM/g%C3%BCnayd%C4%B1n-g%C3%BCl.gif)  
 
 
 
