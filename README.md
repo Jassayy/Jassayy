@@ -29,9 +29,11 @@ I'm learning JavaScript, C, React, Python, C++ and more!
 ![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C&logoColor=A8B9CC)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=nodedotjs)
+
+### Database:
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB)
 
 ### Tools & Technologies:
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
