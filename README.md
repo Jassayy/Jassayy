@@ -21,7 +21,7 @@ I'm learning JavaScript, C, React, Python, C++ and more!
 
 ## 🛠️ My Skills
 
-### Languages:
+### Languages , Frameworks and Libraries I use:
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
