@@ -4,8 +4,10 @@
 I'm a passionate developer who loves coding and anime! 🧑‍💻✨  
 I'm learning JavaScript, C, React, Python, C++ and more!
 
-![Gyomei vs Muzan](![image](https://github.com/user-attachments/assets/320c0b55-7f22-45a9-936e-e3563badd736)
-)
+
+
+![Gyomei vs Muzan](https://media1.tenor.com/m/gsQ41D4T6ukAAAAd/gyomei-himejima-vs-muzan-kibutsuji.gif)
+
 
 *Demon Slayer fuels my energy as much as coding does!*
 
