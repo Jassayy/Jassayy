@@ -2,7 +2,7 @@
 
 ### About Me:
 I'm a passionate developer who loves coding and anime! 🧑‍💻✨  
-I'm learning JavaScript, C, React, Python, and more!
+I'm learning JavaScript, C, React, Python, C++ and more!
 
 ![Anime Gif](https://media.tenor.com/qxsQpk34ONoAAAAM/g%C3%BCnayd%C4%B1n-g%C3%BCl.gif)  
 *Demon Slayer fuels my energy as much as coding does!*
@@ -19,16 +19,23 @@ I'm learning JavaScript, C, React, Python, and more!
 
 ### Languages and Tools I Know:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+## 🛠️ My Skills
+
+### Languages:
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React)
+![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB)
+![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=nodedotjs)
+
+### Tools & Technologies:
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+
 
 ![Coding Gif](https://media.tenor.com/cJtDhl2-MP0AAAAi/goku-dragon-ball.gif)  
 Running away from problems Lol
