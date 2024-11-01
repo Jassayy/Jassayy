@@ -46,11 +46,13 @@ I'm a passionate developer who loves coding and anime! 🧑‍💻✨
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Jas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jassayy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jassayy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jassayy&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📬 Let's Connect!
 
